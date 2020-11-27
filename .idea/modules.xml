@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../SVM_and_CNN_on_Fashion_MNIST_Dataset/.idea/SVM_and_CNN_on_Fashion_MNIST_Dataset.iml" filepath="$PROJECT_DIR$/../../SVM_and_CNN_on_Fashion_MNIST_Dataset/.idea/SVM_and_CNN_on_Fashion_MNIST_Dataset.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/project.iml" filepath="$PROJECT_DIR$/.idea/project.iml" />
     </modules>
   </component>
